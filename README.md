@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my physics degree in UNAM's School of Science
+- 🌱 I’m currently learning Machine learning (focused on AI) and data science
+- 📫 How to reach me: alidemuabil@ciencias.unam.mx
+- 😄 Pronouns: He/Him
 <!--
 **AlideMuabi/AlideMuabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
